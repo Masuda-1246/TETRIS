@@ -1,0 +1,12 @@
+cd C:\Users\cgug1038\Desktop\C-Programming-5
+
+path bin
+
+arm-none-eabi-gcc -S ex5.c
+
+arm-none-eabi-as -o ex5.o ex5.S
+
+arm-none-eabi-ld -Ttext 0x02000000 -o ex5.out ex5.o
+
+arm-none-eabi-objcopy -O binary ex5.out ex5.bin
+
