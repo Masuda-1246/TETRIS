@@ -2,9 +2,11 @@
 ゲームボーイアドバンスで動作するテトリスを作成。
  
 # DEMO
- 
- 
-#WHy?
+
+https://user-images.githubusercontent.com/96477942/170878583-161d7263-3c3d-4d43-ba7f-8ababbea9442.mov
+
+
+# WHy?
 学校の授業の自由課題で、ゲームボーイアドバンスを用いる 
 
 # How to use
